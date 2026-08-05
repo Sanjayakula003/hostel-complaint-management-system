@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build output
+dist/
+frontend/dist/
+
+# Database
+database/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.*
